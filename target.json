@@ -1,0 +1,13 @@
+{
+  "app": {
+    "debug": true,
+    "port": 8080
+  },
+  "db": {
+    "host": "db.internal",
+    "timeout": 30
+  },
+  "cache": {
+    "enabled": true
+  }
+}
